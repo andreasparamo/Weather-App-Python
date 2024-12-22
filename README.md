@@ -12,6 +12,6 @@ To run this program you need to do the following :
 
 
 3. Run the application
--    server.py
+-    type server.py in terminal
 -    in your browser type localhost:8000
 
